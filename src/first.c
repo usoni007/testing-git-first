@@ -8,7 +8,7 @@ size_t my_strlen(char *s)
 
    return (p - s);
 }
-
+/* stach operation test */
 int main ()
 {
 //#im adding comment to difference;
